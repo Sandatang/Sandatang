@@ -1,6 +1,8 @@
 ### Hi my name is John Mark Abad
-asdasd
-
+ BSIT student aspiring to be a full stack developer
+ 
+ Here is a link of my simple portfolio website written on React TypeScript publish to github pages
+ https://sandatang.github.io/web-portfolio/
 <!--
 **Sandatang/Sandatang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
