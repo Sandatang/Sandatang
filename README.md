@@ -5,6 +5,8 @@
  published to github pages, i will still improve this 😄
  
  https://sandatang.github.io/web-portfolio/
+
+ This is my Future Web Portfolio NextJS 13 https://portfolio-nextjs-git-update-sandatang.vercel.app/
 <!--
 **Sandatang/Sandatang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
